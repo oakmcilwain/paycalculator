@@ -1,0 +1,5 @@
+// settings.scss
+@forward 'vuetify/settings' with (
+  $button-color: blue,
+  $button-font-weight: 700
+);
